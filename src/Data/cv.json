@@ -1,0 +1,21 @@
+{
+    "name": "Berkay",
+    "surname": "Test",
+    "position": "XX DEv",
+    "experiences": [
+        {
+            "company": "xx",
+            "order": 2,
+            "position": "yy",
+            "startDate": "2012",
+            "endDate": "2013"
+        },
+        {
+            "company": "xx",
+            "order": 1,
+            "position": "yy",
+            "startDate": "2012",
+            "endDate": "2013"
+        }
+    ]
+}
